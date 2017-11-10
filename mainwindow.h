@@ -2,7 +2,6 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include <string>
 #include <Qtime>
 #include <QAction>
 #include <QFile>
